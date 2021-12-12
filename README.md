@@ -19,4 +19,18 @@ user password : admin
 ![Add Todo](https://user-images.githubusercontent.com/63856744/145719448-3769ae28-6a6d-427b-82d3-86211521c275.png)
 
 
+# Edit To Do 
 
+![Edit Todo](https://user-images.githubusercontent.com/63856744/145719566-ae21ecf5-a53a-4203-98d0-8f312fa4ebc3.png)
+
+# Delete To Do
+
+![Delete Todo](https://user-images.githubusercontent.com/63856744/145719597-614944d5-0ed7-445e-971d-c95bb532dd12.png)
+
+# Status Update 
+
+![Status Update](https://user-images.githubusercontent.com/63856744/145719625-16dcd2ec-400d-44cd-bb03-d0134806f987.png)
+
+# Logout 
+
+![Logout Todo](https://user-images.githubusercontent.com/63856744/145719636-c0b29de0-3e02-4625-8c09-7d43976afee3.png)

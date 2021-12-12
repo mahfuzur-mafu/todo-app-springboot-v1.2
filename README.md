@@ -34,3 +34,40 @@ user password : admin
 # Logout 
 
 ![Logout Todo](https://user-images.githubusercontent.com/63856744/145719636-c0b29de0-3e02-4625-8c09-7d43976afee3.png)
+
+# Database 
+
+![Database](https://user-images.githubusercontent.com/63856744/145719884-29baaea1-1843-40e2-ac89-616c5df4f02c.png)
+
+
+# Implemented Tools and Technology
+
+IDE- Spring Tool suite 4
+
+Software Design Pattern - MVC
+
+• Framework - Spring Boot • security - Spring boot security
+
+• Database – MySql Workbench 8.0, Spring Boot JDBC, Spring Data JPA (Hibernate)
+
+• Front-end: HTML, bootstrap 4, Thymeleaf.
+
+• JDK - Java 1.8
+
+# Challenges Faced
+
+• Faced error into database issue.
+
+• Faced not getting any data from user input.
+
+• Front end logical issue.
+
+• Faced Some Little bugs.
+
+
+To Do  © Fantastic Four Alpha
+
+©2021 Team Fantastic Four Alpha. All Rights Reserved.
+-  [Md Mahfuzur Rahmman](https://www.linkedin.com/in/mahfuzurmafu/)
+
+-  [Abidur Rahman ](https://www.linkedin.com/in/abidur-rahman-khan-fahim-6903b71bb/)
